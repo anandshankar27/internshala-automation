@@ -29,7 +29,7 @@ else {
 tinyUrl = tinyUrl.replace(" ", "%20")
 
 const url = `https://internshala.com/internships/${tinyUrl}`
-console.log(url)
+// console.log(url)
 module.exports = {
     "url" : url
 }
