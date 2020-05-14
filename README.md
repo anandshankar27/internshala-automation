@@ -2,7 +2,9 @@
 
 ## About
 An automated script which can apply for multiple internships according to user preference. It works on Internshala Platform.
-It filters internships according to your preferences and applies to all of them and saves you a lot of time. Also, you don't have to go through that same boring procedure of uploading resume, giving assesment answers, etc, etc. 
+It filters internships according to your preferences and applies to all of them and saves you a lot of time. Also, you don't have to go through that same boring procedure of uploading resume, giving assesment answers, etc. 
+
+See how it works <a href="https://www.linkedin.com/posts/anandshankar27_automation-seleniumwebdriver-selenium-activity-6665891746649636864-4EAY/">here</a>.
 
 ## How to set it up locally ?
 
